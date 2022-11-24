@@ -10,6 +10,7 @@
 }
 .body-container2{
     display: flex;
+    margin-bottom: 50px;
 }
 .body-container1{
     display: flex;
@@ -93,19 +94,20 @@
     border-radius: 50px;
 }
 .profile2{
-    display: flex;
-    justify-content: space-between;
+    /* display: flex; */
+    justify-content: space-around;
     /* border: 1px solid white; */
-    height: 50px;
+    height: 70px;
     /* width: 200px; */
 }
-.flex{
+/* .flex{
     display: flex;
     justify-content: space-between;
-}
+} */
 .profile2 img{
     border:2px solid white;
     border-radius: 50px;
+    margin-left: 90px;
 }
 .column{
     position: relative;
